@@ -369,8 +369,8 @@ Table 4: Reserved track roles
 | audiodescription | An audio description for visually impaired users           |
 | video            | Visual content                                             |
 | audio            | Audio content                                              |
-| mediatimeline    | An MSF media timeline {{mediatimelinetrack}}                |
-| eventtimeline    | An MSF event timeline {{eventtimelinetrack}}                |
+| mediatimeline    | An MSF media timeline {{mediatimelinetrack}}               |
+| eventtimeline    | An MSF event timeline {{eventtimelinetrack}}               |
 | caption          | A textual representation of the audio track                |
 | subtitle         | A transcription of the spoken dialogue                     |
 | signlanguage     | A visual track for hearing impaired users.                 |
